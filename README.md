@@ -3,4 +3,4 @@ Um projeto web baseado em HTML, CSS e JavaScript de uma Lista de Tarefas, onde o
 
 A persistência dos dados é feita através do Local Storage, uma API padrão oferecida pelo navegador semelahnte aos cookies.
 
-![Alt text](image.png)
+![Alt text](img/image.png)
